@@ -17,3 +17,6 @@ In this dashboard, the objective is to analyze newly acquired customers in 2010 
 * September to November had the highest customer return rates. Notably, in November, 39.39% of the September 2010 cohort and 36.67% of the July 2010 cohort made additional purchases.
 * December had the fewest returning customers.
 * March, September, October, and November attracted the most new customers, around 160-190, and generated top revenue in their first month, approximately $60k to $80k.
+
+Tableau: 
+https://public.tableau.com/views/CustomerAnalysis_17173160094740/Overview
